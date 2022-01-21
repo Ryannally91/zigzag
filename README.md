@@ -1,0 +1,1 @@
+Given a list of integers, determine if each three consecutive numbers constitute a zig-zag as define by a < b > c, or a > b < c. return a list containing 1 if the pattern was a zigzag or 0 if there was not.
